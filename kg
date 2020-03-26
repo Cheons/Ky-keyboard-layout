@@ -14,13 +14,13 @@ xkb_symbols "basic" {
     key	<AE08> {	[		8,	  asterisk	]	};
     key	<AE09> {	[		9,	 parenleft	]	};
     key	<AE10> {	[		0,	parenright	]	};
-    key	<AE11> {	[    ]	};
-    key	<AE12> {	[    ]	};
-    key	<BKSL> {	[    Cyrillic_u_straight,  	Cyrillic_U_straight	]	};
+    key	<AE11> {	[    	]	};
+    key	<AE12> {	[     ]	};
+    key	<BKSL> {	[ Cyrillic_en_descender,   	Cyrillic_EN_descender ]	};
     key	<AB10> {	[	   period,	     comma	]	};
     key <LSGT> {        [           slash,             bar      ]       };
 
-    key	<TLDE> {	[    Cyrillic_o_bar,  		Cyrillic_O_bar		]	};
+    key	<TLDE> {	[    Cyrillic_u_straight,  	Cyrillic_U_straight		]	};
     key	<AD01> {	[ Cyrillic_shorti, Cyrillic_SHORTI	]	};
     key	<AD02> {	[    Cyrillic_tse,    Cyrillic_TSE	]	};
     key	<AD03> {	[      Cyrillic_u,	Cyrillic_U	]	};
@@ -32,7 +32,7 @@ xkb_symbols "basic" {
     key	<AD09> {	[  Cyrillic_shcha,  Cyrillic_SHCHA	]	};
     key	<AD10> {	[     Cyrillic_ze,     Cyrillic_ZE	]	};
     key	<AD11> {	[     Cyrillic_ha,     Cyrillic_HA	]	};
-    key	<AD12> {	[Cyrillic_en_descender,   	Cyrillic_EN_descender		]	};
+    key	<AD12> {	[	  Cyrillic_o_bar,  		Cyrillic_O_bar		]	};
     key	<AC01> {	[     Cyrillic_ef,     Cyrillic_EF	]	};
     key	<AC02> {	[   Cyrillic_yeru,   Cyrillic_YERU	]	};
     key	<AC03> {	[     Cyrillic_ve,     Cyrillic_VE	]	};
